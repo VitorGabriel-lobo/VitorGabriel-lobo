@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabriel-lobo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Linguagens que tenho conhecimento:
+## Linguagens:
 
 <div style="display: inline_block">
   <img align="center" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="40" height="40"/>
