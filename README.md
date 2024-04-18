@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vitor Gabriel 
+### Hi, I'm Vitor 👋
 <br>
 
 <div>
@@ -8,10 +8,9 @@
 </div>
 
 ## Linguagens que tenho conhecimento:
+
 <div style="display: inline_block">
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img align="center" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="40" height="40"/>
+  <img align="center" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </div><br/>
-
-
 
