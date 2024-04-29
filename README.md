@@ -9,6 +9,8 @@
 
 ## Linguagens:
 
+<!-- https://devicon.dev/ -->
+
 <div style="display: inline_block">
   <img align="center" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="40" height="40"/>
   <img align="center" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
