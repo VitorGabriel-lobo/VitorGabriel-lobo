@@ -28,7 +28,7 @@
 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VitorGabriel-lobo)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
