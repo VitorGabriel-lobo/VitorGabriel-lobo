@@ -7,8 +7,8 @@
 -->
 <div>
 <a href="https://github.com/VitorGabriel-lobo">
-<img loading="lazy" height="" src="https://nirzak-streak-stats.vercel.app/?user=VitorGabriel-lobo&theme=dracula&hide_border=true">
-<img loading="lazy" height="" src="https://github-readme-stats.vercel.app/api?username=VitorGabriel-lobo&count_private=true&show_icons=true&theme=dracula"/>
+<img loading="lazy" height="" src="https://nirzak-streak-stats.vercel.app/?user=VitorGabriel-lobo&theme=dracula&hide_border=true" width="400" height="400">
+<img loading="lazy" height="" src="https://github-readme-stats.vercel.app/api?username=VitorGabriel-lobo&count_private=true&show_icons=true&theme=dracula" width="400" height="400"/>
 <!--<img loading = "lazy" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabriel-lobo&layout=compact"/>-->
 </div>
 
