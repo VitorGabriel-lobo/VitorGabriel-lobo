@@ -11,8 +11,6 @@
 <img loading = "lazy" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabriel-lobo&layout=compact"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabriel-lobo)](https://github.com/anuraghazra/github-readme-stats)
-
 ##
 <!-- https://devicon.dev/ -->
 <div style="display: inline_block">
