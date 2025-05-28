@@ -8,10 +8,8 @@
 <div>
 <a href="https://github.com/VitorGabriel-lobo">
 <img loading="lazy" height="" src="https://github-readme-stats.vercel.app/api?username=VitorGabriel-lobo&show_icons=true&theme=dracula"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabriel-lobo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading = "lazy" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabriel-lobo&layout=compact"/>
 </div>
-
-
 
 ##
 <!-- https://devicon.dev/ -->
